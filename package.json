@@ -1,0 +1,16 @@
+{
+  "name": "final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d module5"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://moin909.github.io/module5",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
